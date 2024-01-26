@@ -1,6 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+
 body{
     background-image: url("img/cart-yelo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
 }
